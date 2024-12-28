@@ -1,0 +1,8 @@
+{
+    "title": "My Blog",
+    "description": "My musings about .NET, C#, Azure, Dapr",
+    "image": {
+      "src": "/images/image-default.jpg",
+      "alt": "My Blog"
+    }
+  }
